@@ -1,0 +1,13 @@
+# Scraped raw data (large, can be regenerated)
+data/raw_html/
+data/markdown/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Debug scripts
+scripts/debug_*.py
